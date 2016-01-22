@@ -1,3 +1,16 @@
+body {
+	font-family: 'Open Sans', Arial, sans-serif;
+}
+.header {
+	background-image: url("../images/header_bg.jpg");
+	background-size: cover;
+	width: 100%;
+	height: 550px;
+}
+h1 {
+
+}
+
 /*
 Project Name: Relaxr Landing Page
 Author: Your Name
