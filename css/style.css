@@ -16,7 +16,7 @@ body {
 	padding-top: 20px;
 	text-align: center;
 }
-.header a:link, a:visited, a:hover, a:active {
+.getitnow {
 	color: #033048;
 	font-size: 28px;
 	font-weight: 800;
@@ -57,6 +57,7 @@ h4 {
 	font-size: 48px;
 	color: #f9e42e;
 	margin: 0px;
+	padding-bottom: 40px;
 }
 p {
 	font-size: 26px;
@@ -103,7 +104,7 @@ ul {
 	text-align: center;
 	margin: 0 auto;
 }
-.bar a:link, a:visited, a:hover, a:active {
+.signupnow {
 	color: #fff;
 	font-size: 28px;
 	font-weight: 800;
@@ -126,10 +127,12 @@ ul {
 	font-weight: 600;
 	padding-left: 25px;
 	padding-right: 25px;
+	padding-top: 40px;
 }
 .footer a {
 	padding-left: 25px;
 	padding-right: 25px;
 }
+
 
 
