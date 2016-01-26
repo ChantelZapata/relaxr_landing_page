@@ -70,6 +70,7 @@ ul {
 	font-weight: 300;
 	color: #606161;
 	line-height: 38px;
+	list-style-type: disc;
 }
 .benefits p {
 	width: 640px;
@@ -106,7 +107,7 @@ ul {
 }
 .signupnow {
 	color: #fff;
-	font-size: 28px;
+	font-size: 24px;
 	font-weight: 800;
 	padding: 11px 56px 11px 56px;
 	background: #033048;
